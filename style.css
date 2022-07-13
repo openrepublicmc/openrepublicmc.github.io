@@ -1,0 +1,54 @@
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+	background-color: #222222;
+}
+
+body {
+width: 1024px;
+padding: 20px;
+background-color: #000000;
+color: white;
+display: flexbox;
+border-color: #99999;
+border-width: 2px;
+border-style: solid;
+font-family: Contemporary;
+}
+
+@font-face {
+  font-family: Contemporary;
+  src: url("Contemporary-Regular.ttf");
+}
+
+a {
+color: #6ABEDB;
+}
+
+a:hover {
+color: white;
+}
+
+.list {
+display: flex;
+float: left;
+border-color: #99999;
+border-width: 2px;
+border-style: solid;
+padding: 20px;
+margin: 20px;
+}
+
+.examplebox {
+display: grid;
+float: right;
+border-color: #99999;
+border-width: 2px;
+border-style: solid;
+padding: 20px;
+}
