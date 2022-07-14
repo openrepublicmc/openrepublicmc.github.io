@@ -10,7 +10,7 @@ html {
 }
 
 body {
-width: 1024px;
+max-width: 1024px;
 padding: 20px;
 background-color: #000000;
 color: white;
