@@ -15,7 +15,7 @@ padding: 20px;
 background-color: #000000;
 color: white;
 display: flexbox;
-border-color: #99999;
+border-color: #999999;
 border-width: 2px;
 border-style: solid;
 font-family: Contemporary;
@@ -37,18 +37,20 @@ color: white;
 .list {
 display: flex;
 float: left;
-border-color: #99999;
+border-color: #999999;
 border-width: 2px;
 border-style: solid;
 padding: 20px;
 margin: 20px;
+background-color: #222222;
 }
 
 .examplebox {
 display: grid;
 float: right;
-border-color: #99999;
+border-color: #999999;
 border-width: 2px;
 border-style: solid;
 padding: 20px;
+background-color: #222222;
 }
