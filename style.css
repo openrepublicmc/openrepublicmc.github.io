@@ -35,7 +35,7 @@ color: white;
 }
 
 .list {
-display: flex;
+display: inline-block;
 float: left;
 border-color: #999999;
 border-width: 2px;
